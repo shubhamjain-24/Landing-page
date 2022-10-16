@@ -7,8 +7,9 @@
     height: 18.7vh;
     background-color: white;
     border: 1px solid lightgray;
-    padding: 2%;
+    padding:2%;
     border-radius: 8px;
+
 }
 .sec-1{
     height: 8vh;
@@ -36,7 +37,7 @@
     background-color: white;
     color: #2ead8d;
     cursor: pointer;
-    margin-left: 31%;
+    margin-left: 33%;
 }
 .sec-2{
     margin-left: 15px;
@@ -53,8 +54,8 @@
 .para{
     width: 13vw;
     margin-left: 15px;
-    margin-top: 8px;
-    font-size: 0.9rem;
+    margin-top: 4px;
+    font-size: 0.86rem;
     color: gray;
 }
 .cost{
@@ -66,9 +67,10 @@
 .symbol{
     font-size: 0.9rem;
     color: #de367c;
+    margin-left: 11px;
 }
 .price{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     color: #de367c;
     font-weight: 900;
 }
