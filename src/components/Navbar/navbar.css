@@ -75,11 +75,11 @@
   margin-top: 8px;
   width: 95%;
   margin-left: 42px;
-  border: 1px solid gray;
+  border: 0; border-top: 2px solid gray;
 }
 .hr2 {
   margin-top: -2px;
   width: 12%;
   margin-left: 42px;
-  border: 1px solid #de367c;
+  border: 0; border-top: 2px solid #de367c;
 }
