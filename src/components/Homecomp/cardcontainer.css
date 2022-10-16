@@ -1,0 +1,9 @@
+.cardContainer{
+    
+    background-color: #f2f5fe;
+    width: calc(82.2vw);
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

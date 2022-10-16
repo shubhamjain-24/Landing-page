@@ -1,0 +1,87 @@
+.navbar-container {
+  width: 84vw;
+  height: 18vh;
+  background-color: #f2f5fe;
+  /* background-color: #de367c; */
+  border-radius: 20px 0px 0px 0px;
+  margin-left: -15px;
+}
+.upper {
+  margin-top: 0.8%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+}
+.image-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5%;
+}
+.image {
+  border-radius: 50%;
+  margin-left: 30%;
+  height: 35px;
+  width: 50px;
+  -webkit-box-shadow: 0px 3px 5px 0px rgba(179, 224, 220, 1);
+  -moz-box-shadow: 0px 3px 5px 0px rgba(179, 224, 220, 1);
+  box-shadow: 0px 3px 5px 0px rgba(179, 224, 220, 1);
+}
+.name {
+  font-weight: 700;
+}
+/* Lower Section of CSS */
+.lower {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2.4%;
+  justify-content: baseline;
+}
+.text {
+  color: gray;
+  font-weight: 550;
+  font-size: 1.1rem;
+}
+.active-nav {
+  color: #de367c;
+  margin: 0px 55px 0px 55px;
+  font-weight: bolder;
+}
+.actice-nav-span {
+  color: #de367cbc;
+}
+.search {
+  margin-left: 58%;
+  background-color: white;
+  width: 15.8%;
+  border-radius: 5px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
+.fa-solid {
+  margin-left: 6px;
+  color: gray;
+}
+.input {
+  outline: none;
+  border: none;
+  flex: 1;
+  padding-left: 10px;
+}
+
+/* line */
+.hr {
+  margin-top: 8px;
+  width: 95%;
+  margin-left: 42px;
+  border: 1px solid gray;
+}
+.hr2 {
+  margin-top: -2px;
+  width: 12%;
+  margin-left: 42px;
+  border: 1px solid #de367c;
+  /* z-index: 1; */
+}
