@@ -1,6 +1,6 @@
 .navbar-container {
   width: 84vw;
-  height: 106.2vh;
+  height: 106.3vh;
   background-color: #f2f5fe;
   border-radius: 20px 0px 0px 0px;
   margin-left: -15px;
@@ -82,5 +82,4 @@
   width: 12%;
   margin-left: 42px;
   border: 1px solid #de367c;
-  /* z-index: 1; */
 }
